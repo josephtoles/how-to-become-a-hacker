@@ -1,0 +1,20 @@
+To a tinkerer, a computer is a large microcontroller. To a mathematician, a computer is a Turing machine. To the uninformed, it is a magical machine that thinks. To a hacker, a computer is a shell.
+
+The shell, called the command line by those who don't actually use it, is the most powerful tool in the hacker's arsenal. The shell is to a hacker what a katana is to a samurai. It's farmer's field, a captain's ship, a magician's bag of tricks. It is difficult to understate the importance of a shell to a hacker. Of course, there are engineers who rarely use the shell on occasion. This is a sign of mediocrity.
+
+Why is this important? Mostly it comes down to what you read in Chapter 2 of "The Art of Unix Programming": modularity. Hacking is the ability to create necessary tools from existing tools quickly and on the fly. Graphical programs can do only what they are designed to do, and should be avoided when possible. Text-based inputs and outputs are better, because they can be fed from one program to another. Utilities operating within the command line are more easily integrated into scripts.
+
+Now open the command line.
+
+
+* Homework
+** Read Introduction to Linux by Machtelt Garrels
+   http://tille.garrels.be/training/tldp/
+   then read BASH Programming - Introduction HOW-To by Mike G
+   http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc1
+   then read Bash Guide for Beginners by Machtelt Garrels
+   http://tldp.org/LDP/Bash-Beginners-Guide/html/
+
+
+Supplemental Materials
+Watch "The Matrix"

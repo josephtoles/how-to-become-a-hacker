@@ -1,0 +1,100 @@
+* Sections
+
+** Introduction
+   Anyone can hack
+   On the Internet, nobody knows you're a dog
+   What about college?
+   What's in this book?
+   Bill Gates, Steve Jobs, and Elon Musk didn't
+   How to teach yourself hacking, for $0
+   How to read this book (and if you find something cool, set this down and come back to it)
+   College is the easy route. This is faster, harder, and much more effective.
+  
+*** Homework
+    The Hacker's Manifesto
+    Bill Watterson's Commencement Speech
+    Paul Graham Great Hackers book
+*** Supplements
+    Zen and the Art of Motorcycle Maintenance
+    You're not Special
+    The Matrix
+    ? College: What is Was, Is, and Should Be
+
+** Your first computer
+   This is important and necessary
+   Buying a computer
+*** Homework
+    Buy a computer.n Or dig one out of the dumpster and fix it
+
+** Linux
+   Installing linux
+
+** The Command Line
+
+** Vim
+
+** C & GCC
+
+** A Moment of zen
+   Talk about principles
+*** Homework
+    The Pragmatic Programmer [if open source]
+    The Art of Unix Programming [if open source]
+    The Unix Hater's Handbook [if open source]
+    The Mythical Man Month [if open source]
+** Emacs
+
+** Lisp
+
+** Command Line text processing tools
+   Sed
+   Awk
+   Cut
+
+* Don't know where these next sections should go
+
+** Free and Open Source Software
+
+** Python
+
+** Electrical Engineering
+
+** Data Structures and Algorithms
+   Read a basic book, then learn calculus
+
+** Machine Learning
+
+** Other shells
+
+** Arduino
+
+** The business side of things
+
+** Startups
+
+** Haskell
+
+** Open Source
+*** Homework
+    "Open Advice" book
+
+** Other people
+*** Homework
+
+    How to Win Friends and Influence People
+    Truth in Comedy
+    Zen and the Art of Writing
+
+* Structure
+  Each chapter has
+
+** Homework
+   Mandatory
+   Put all XKCD comics here.
+
+** Supplementary exercises
+   Suggested, if you can afford them
+
+** Side Quests
+   Strictly Optional
+

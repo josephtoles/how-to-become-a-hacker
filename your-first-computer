@@ -1,0 +1,54 @@
+* Operating Systems
+As a hacker, you'll need a laptop. The software on a computer is more important than the hardware. Everything you do on a computer, you do through the operating system. Four families of operating system are in general use today.: Microsoft, Apple, Linux, and BSD.
+
+** Microsoft
+Microsoft writes Windows, the most common operating system in the world for laptops and desktops. People usually run Windows because it came pre-installed on their computer. Others use it because they need particular software, particularly videogames and enterprise software. The system has many drawbacks. It crashes all the time, upgrading it is inconvenient, it's difficult to customize, and there is not a lot of freely available quality software. Do not use Windows unless you require specific software that only runs on Windows.
+
+** Apple
+Apple writes a variety of operating systems for Apple devices, including OS X and iOS. These operating systems are well-integrated with their (expensive) hardware and don't crash all the time. They run a lot of commercial software, though not quite as much as Windows. However, customizing and Apple system is much harder than customizing Windows, so while many excellent engineers do use Apple products quite successfully, hackers (Lisbeth Salander notwithstanding) do not.
+
+** Linux
+The word "Linux" is used casually to describe a family of operating systems. They all use the same underlying kernel, but different distrobutions come with different sofware preinstalled and feature different user interfaces. Puppy Linux is a tiny operating system that can run on as little as 32 MB of RAM. Damn Vulnerable Linux lets you practice breaking into systems. Debian is a radical distro known for its extreme stability. Bodhi Linux is a sort of avant-garde creation. Ubuntu is the most common. This can all be a bit to process at the moment, so if you don't know which Linux distro to pick, just use Linux Mint.
+
+
+** Berkely Software Distribution (BSD)
+BSD describes a family of operating systems similar to Linux, but with different underlying philosophy. Essentially, BSD grew out of an engineering culture whereas Linux grew out of a hacking culture, so BSD development is somewhat more uniform. This has advantages and disadvantages. For exanmple, BSD is slightly more respectable. This course is written for Linux, but you can run BSD if you want. This is all I'll say on the subject because virtually anything you can do with Linux, you can also do with BSD.
+
+* Hardware
+You can install Linux on virtually any laptop. It's okay to ask a friend to do this for you, but learn how because you may need to later if you damage your system badly enough. You have a lot of options here. If possible, you should buy used on a website like Craigslist.org because inexperienced users tend to sell quality hardware very cheap, and the hundreds of dollars you save in comparison to a new computer can be spent instead on better hardware. Also don't buy a warrantee. You will learn more as well as save time and money by repairing the computer yourself. If you're really short on money, you can buy one with a broken screen or keyboard and repair it easily. While it is nice to have a newer computer, this is not necessary, and you can get higher quality for the price buying one a couple years old.
+
+** Lenovo
+My favorite computers are Lenovo ThinkPads. They're beautiful, practical and, most importantly, virtually indescructable. They're easy to repair for the few times you do manage to damage them.
+
+** System76
+System 76 makes computers that come with Ubuntu preinstalled. Their hardware is also durable.
+
+** Dell
+Dell computers are ok.
+
+** Asus
+Asus computers are ok.
+
+** HP
+Never buy an HP computer. Their screens, keyboards, and hard drives break under normal use. The price tag looks cheap, but you will lose money over the long run after factoring in the price of replacement parts.
+
+** Apple
+Don't buy an Apple computer. They're overpriced machines designed for people who don't actually like computers. They have unconventional specs that make it weird to configure Linux for, and they're virtually impossible to repair.
+
+* Installing Linux
+The easiest way to install Linux onto a computer is to burn a bootable iso onto a flash drive. Then, configure your machine's BIOS to boot from the flash drive instead of your hard drive. The details of this differ depending on what systems you're using. It is possible to dual-boot a computer, so that it lets you pick an operating system on stratup, but this is often more effort than it is worth.
+
+* Homework
+** If you don't already have a laptop or desktop running Linux or BSD, get one.
+** Read xkcd 272 "Linux User at Best Buy" and 456 "Cautionary"
+   https://xkcd.com/272/
+   https://xkcd.com/456/
+** Skim the Wikipedia article on Linux distributions and read a little about some that you find interesting.
+   https://en.wikipedia.org/wiki/List_of_Linux_distributions
+** Read Chapters 1 and 2 of "The Art of Unix Programming" by Eric Steven Raymond
+   http://catb.org/~esr/writings/taoup/html/
+   Then read "BSD for Linux Users"
+   http://www.over-yonder.net/~fullermd/rants/bsd4linux/01
+
+* Supplemental Reading
+** "The Soul of a new Machine" by Tracy Kidder
