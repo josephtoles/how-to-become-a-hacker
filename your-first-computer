@@ -1,11 +1,11 @@
 * Operating Systems
-As a hacker, you'll need a laptop. The software on a computer is more important than the hardware. Everything you do on a computer, you do through the operating system. Four families of operating system are in general use today.: Microsoft, Apple, Linux, and BSD.
+As a hacker, you'll need a laptop. The oprtaing system is more important than the hardware. Four families of operating system are in general use today.: Microsoft, Apple, Linux, and BSD.
 
 ** Microsoft
-Microsoft writes Windows, the most common operating system in the world for laptops and desktops. People usually run Windows because it came pre-installed on their computer. Others use it because they need particular software, particularly videogames and enterprise software. The system has many drawbacks. It crashes all the time, upgrading it is inconvenient, it's difficult to customize, and there is not a lot of freely available quality software. Do not use Windows unless you require specific software that only runs on Windows.
+Microsoft writes Windows, the most common operating system in the world for laptop and desktop computers. Most people run Windows because it came pre-installed on their computer. Others use it because they need particular software, particularly videogames and enterprise software like as Inventor. The system has many drawbacks. It crashes all the time, upgrading it is inconvenient, it's difficult to customize, and there is not a lot of freely available quality software. Do not use Windows unless you require specific software that only runs on Windows.
 
 ** Apple
-Apple writes a variety of operating systems for Apple devices, including OS X and iOS. These operating systems are well-integrated with their (expensive) hardware and don't crash all the time. They run a lot of commercial software, though not quite as much as Windows. However, customizing and Apple system is much harder than customizing Windows, so while many excellent engineers do use Apple products quite successfully, hackers (Lisbeth Salander notwithstanding) do not.
+Apple writes operating systems for Apple devices, OS X and iOS. These operating systems are well-integrated with their (expensive) hardware and don't crash all the time. They run a lot of commercial software, though not quite as much as Windows. However, customizing and Apple system is much harder than customizing Windows, so while many excellent engineers do use Apple products quite successfully, hackers (Lisbeth Salander notwithstanding) do not.
 
 ** Linux
 The word "Linux" is used casually to describe a family of operating systems. They all use the same underlying kernel, but different distrobutions come with different sofware preinstalled and feature different user interfaces. Puppy Linux is a tiny operating system that can run on as little as 32 MB of RAM. Damn Vulnerable Linux lets you practice breaking into systems. Debian is a radical distro known for its extreme stability. Bodhi Linux is a sort of avant-garde creation. Ubuntu is the most common. This can all be a bit to process at the moment, so if you don't know which Linux distro to pick, just use Linux Mint.
@@ -37,6 +37,9 @@ Don't buy an Apple computer. They're overpriced machines designed for people who
 
 * Installing Linux
 The easiest way to install Linux onto a computer is to burn a bootable iso onto a flash drive. Then, configure your machine's BIOS to boot from the flash drive instead of your hard drive. The details of this differ depending on what systems you're using. It is possible to dual-boot a computer, so that it lets you pick an operating system on stratup, but this is often more effort than it is worth.
+
+* Raspberry PI
+[Stuff in case you can't afford a personal laptop.
 
 * Homework
 ** If you don't already have a laptop or desktop running Linux or BSD, get one.

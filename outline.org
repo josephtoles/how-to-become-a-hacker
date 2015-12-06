@@ -13,7 +13,8 @@
 *** Homework
     The Hacker's Manifesto
     Bill Watterson's Commencement Speech
-    Paul Graham Great Hackers book
+    Paul Graham Great Hackers 
+
 *** Supplements
     Zen and the Art of Motorcycle Maintenance
     You're not Special
@@ -30,8 +31,10 @@
    Installing linux
 
 ** The Command Line
-
 ** Vim
+** More Command line
+
+** Git
 
 ** C & GCC
 
