@@ -1,27 +1,26 @@
 * Operating Systems
-As a hacker, you'll need a laptop. The oprtaing system is more important than the hardware. Four families of operating system are in general use today.: Microsoft, Apple, Linux, and BSD.
+The first thing you'll need is a computer, preferably a laptop. You really don't need anything besides a laptop and an internet connection. If you can't afford a laptop, you can get a Raspberry PI. Having quality hardware is nice if you can afford it, but not necessary if you cannot. Much more important is the operating system you run. Four families of operating system are in general use today.: Microsoft, Apple, Linux, and BSD.
 
 ** Microsoft
 Microsoft writes Windows, the most common operating system in the world for laptop and desktop computers. Most people run Windows because it came pre-installed on their computer. Others use it because they need particular software, particularly videogames and enterprise software like as Inventor. The system has many drawbacks. It crashes all the time, upgrading it is inconvenient, it's difficult to customize, and there is not a lot of freely available quality software. Do not use Windows unless you require specific software that only runs on Windows.
 
 ** Apple
-Apple writes operating systems for Apple devices, OS X and iOS. These operating systems are well-integrated with their (expensive) hardware and don't crash all the time. They run a lot of commercial software, though not quite as much as Windows. However, customizing and Apple system is much harder than customizing Windows, so while many excellent engineers do use Apple products quite successfully, hackers (Lisbeth Salander notwithstanding) do not.
+Apple writes operating systems for Apple devices, OS X and iOS. These operating systems are well-integrated with their (expensive) hardware and don't crash all the time. They run a lot of commercial software, though not quite as much as Windows. However, customizing an Apple system is very difficult, and Apple does not support many important hacking tools, so while many excellent engineers do use Apple products quite successfully, hackers (Lisbeth Salander notwithstanding) do not.
 
 ** Linux
-The word "Linux" is used casually to describe a family of operating systems. They all use the same underlying kernel, but different distrobutions come with different sofware preinstalled and feature different user interfaces. Puppy Linux is a tiny operating system that can run on as little as 32 MB of RAM. Damn Vulnerable Linux lets you practice breaking into systems. Debian is a radical distro known for its extreme stability. Bodhi Linux is a sort of avant-garde creation. Ubuntu is the most common. This can all be a bit to process at the moment, so if you don't know which Linux distro to pick, just use Linux Mint.
-
+The word "Linux" is used to describe a family of operating systems. They all use the same underlying kernel, but different distrobutions come with different sofware preinstalled and feature different user interfaces, each designed for different purposes. Puppy Linux is a tiny operating system that can run on as little as 32 MB of RAM. Damn Vulnerable Linux lets you practice breaking into systems. Debian is a radical distro known for its extreme stability. Bodhi Linux is a sort of avant-garde creation. Ubuntu is the most common. This can all be a bit to process at the moment, so if you don't know which Linux distro to pick, just use Linux Mint.
 
 ** Berkely Software Distribution (BSD)
-BSD describes a family of operating systems similar to Linux, but with different underlying philosophy. Essentially, BSD grew out of an engineering culture whereas Linux grew out of a hacking culture, so BSD development is somewhat more uniform. This has advantages and disadvantages. For exanmple, BSD is slightly more respectable. This course is written for Linux, but you can run BSD if you want. This is all I'll say on the subject because virtually anything you can do with Linux, you can also do with BSD.
+BSD describes a family of operating systems similar to Linux, but with different underlying philosophy. This course is designed for Linux, but you can get along just fine with BSD. You'll learn more about BSD in this chapter's homework.
 
 * Hardware
-You can install Linux on virtually any laptop. It's okay to ask a friend to do this for you, but learn how because you may need to later if you damage your system badly enough. You have a lot of options here. If possible, you should buy used on a website like Craigslist.org because inexperienced users tend to sell quality hardware very cheap, and the hundreds of dollars you save in comparison to a new computer can be spent instead on better hardware. Also don't buy a warrantee. You will learn more as well as save time and money by repairing the computer yourself. If you're really short on money, you can buy one with a broken screen or keyboard and repair it easily. While it is nice to have a newer computer, this is not necessary, and you can get higher quality for the price buying one a couple years old.
+The best way to buy a laptop is to get one used used on a website like Craigslist.org because inexperienced users tend to sell quality hardware very cheap. The money you save by buying used can be directed toward better hardware. Warrenties are not worth the time or money. You will learn more as well as save time and money by repairing the computer yourself. If you're really short on cash, you can buy a used computer with a broken screen or keyboard and repair it yourself. If you must, you can use a very old computer. This may be annoying, but with a little fiddling, pretty much any computer you find should be able to 
 
 ** Lenovo
-My favorite computers are Lenovo ThinkPads. They're beautiful, practical and, most importantly, virtually indescructable. They're easy to repair for the few times you do manage to damage them.
+My favorite computers are Lenovo ThinkPads. They're beautiful, utilitarian and, most importantly, virtually indescructable. They're easy to repair for the few times you do manage to damage them.
 
 ** System76
-System 76 makes computers that come with Ubuntu preinstalled. Their hardware is also durable.
+System 76 makes computers that come with Ubuntu preinstalled. They're famous for driving cars over theyr laptops without damaging them.
 
 ** Dell
 Dell computers are ok.
@@ -30,23 +29,38 @@ Dell computers are ok.
 Asus computers are ok.
 
 ** HP
-Never buy an HP computer. Their screens, keyboards, and hard drives break under normal use. The price tag looks cheap, but you will lose money over the long run after factoring in the price of replacement parts.
+Never buy an HP computer. Their screens, keyboards, and hard drives break under moderate use. The price tag looks cheap, but you will lose money over the long run after factoring in the price of replacement parts.
 
 ** Apple
-Don't buy an Apple computer. They're overpriced machines designed for people who don't actually like computers. They have unconventional specs that make it weird to configure Linux for, and they're virtually impossible to repair.
+Don't buy an Apple computer. They're overpriced machines designed for people who don't actually like computers. They have unconventional specs that make it weird to configure Linux for, and they're sometimes impossible to repair. They're also very difficult to configure. If you already have an Apple computer, keep the current operating system or sell the computer entirely. Installing Linux on an Apple computer is more trouble than it is worth. OS X is similar enouch to linux that you can still use it for this course.
+
+** Raspberry PI
+If you can't afford to buy a used laptop, you can buy a Raspberry PI. They are available for as little $5 and are sufficient for this course, but buy a laptop if you can.
 
 * Installing Linux
-The easiest way to install Linux onto a computer is to burn a bootable iso onto a flash drive. Then, configure your machine's BIOS to boot from the flash drive instead of your hard drive. The details of this differ depending on what systems you're using. It is possible to dual-boot a computer, so that it lets you pick an operating system on stratup, but this is often more effort than it is worth.
-
-* Raspberry PI
-[Stuff in case you can't afford a personal laptop.
+The computer you buy will probably come with Windows installed. This is okay because you can install Linux on virtually any laptop. The easiest way to install Linux onto a computer is to burn a bootable iso onto a flash drive. Then, configure your machine's BIOS to boot from the flash drive instead of your hard drive. How to do this differ depending on what hardware you're using. It is possible to dual-boot a computer, so that it lets you pick an operating system on startup, but this is often more effort than it is worth. It's okay to ask a friend to install Linux for you, but learn how to do itself because you will need to if you damage your system badly enough.
 
 * Homework
-** If you don't already have a laptop or desktop running Linux or BSD, get one.
+** If you don't already have a laptop, buy the nicest one you can afford. Don't buy a Mac.
+** If your computer runs Windows, install your favorite Linux distro.
+   If you don't have a favorite yet, install Linux Mint.
 ** Read xkcd 272 "Linux User at Best Buy" and 456 "Cautionary"
    https://xkcd.com/272/
    https://xkcd.com/456/
-** Skim the Wikipedia article on Linux distributions and read a little about some that you find interesting.
+** Read the first few paragraphs of the wikipedia articles for the following Linux distros.
+*** Debian
+    https://en.wikipedia.org/wiki/Debian
+*** Ubuntu
+    https://en.wikipedia.org/wiki/Ubuntu_(operating_system)
+*** Red Hat Linux
+    https://en.wikipedia.org/wiki/Red_Hat_Linux
+*** Arch Linux
+    https://en.wikipedia.org/wiki/Arch_Linux
+*** Puppy Linux
+    https://en.wikipedia.org/wiki/Puppy_Linux
+*** Damn Small Linux
+    https://en.wikipedia.org/wiki/Damn_Small_Linux
+** Skim the Wikipedia list of Linux distros and read a little about a couple others that you find interesting.
    https://en.wikipedia.org/wiki/List_of_Linux_distributions
 ** Read Chapters 1 and 2 of "The Art of Unix Programming" by Eric Steven Raymond
    http://catb.org/~esr/writings/taoup/html/

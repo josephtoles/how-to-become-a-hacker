@@ -33,7 +33,7 @@
 ** The Command Line
 ** Vim
 ** More Command line
-
+   
 ** Git
 
 ** C & GCC
@@ -52,8 +52,7 @@
 ** Command Line text processing tools
    Sed
    Awk
-   Cut
-
+   
 * Don't know where these next sections should go
 
 ** Free and Open Source Software
