@@ -37,6 +37,9 @@ Don't buy an Apple computer. They're overpriced machines designed for people who
 ** Raspberry PI
 If you can't afford to buy a used laptop, you can buy a Raspberry PI. They are available for as little $5 and are sufficient for this course, but buy a laptop if you can.
 
+** Desktops
+Desktops are okay too, if that is your preference.
+
 * Installing Linux
 The computer you buy will probably come with Windows installed. This is okay because you can install Linux on virtually any laptop. The easiest way to install Linux onto a computer is to burn a bootable iso onto a flash drive. Then, configure your machine's BIOS to boot from the flash drive instead of your hard drive. How to do this differ depending on what hardware you're using. It is possible to dual-boot a computer, so that it lets you pick an operating system on startup, but this is often more effort than it is worth. It's okay to ask a friend to install Linux for you, but learn how to do itself because you will need to if you damage your system badly enough.
 
@@ -66,6 +69,8 @@ The computer you buy will probably come with Windows installed. This is okay bec
    http://catb.org/~esr/writings/taoup/html/
    Then read "BSD for Linux Users"
    http://www.over-yonder.net/~fullermd/rants/bsd4linux/01
+** Take a glance at the Shitty Battlestations subreddit for laughs and inspiration
+   https://www.reddit.com/r/shittybattlestations/
 
 * Supplemental Reading
 ** "The Soul of a new Machine" by Tracy Kidder

@@ -1,27 +1,52 @@
-To a hacker, "computer" means shell. The shell is to a hacker what a katan is to a samurai. It's a captain's ship, a jedi's lightsaber, a magician's bag of tricks. The shell is important beacuse of what your read in Chapter 2 of "The Art of Unix Programming": modularity. Hacking is the ability to create necessary tools from existing tools quickly and on the fly, and a Unix shell is the best way to do this.
+Congratulations. For those of you coming form Windows, you now have your first real computer. Go ahead and open up the shell. Linux Mint calls it terminal, but we call it the shell. In fact, to a hacker, the word "computer" means "shell". The shell is to a hacker what a katana is to a samurai. It's a captain's ship, a jedi's lightsaber, a magician's bag of tricks. The shell is important beacuse of what your read in Chapter 2 of "The Art of Unix Programming": modularity. Hacking is the ability to create necessary tools from existing tools quickly and on the fly, and a Unix shell is the best way to do this.
 
 Consider making hot chocolate. You could boil some water, add hot chocolate powder, mix, and then you have hot chocolate. Or you could mix 1/2 heavy whipping cream with 1/2 milk. Slowly simmer until just below boiling point. Add some unsweetened dark chocolate and a pinch of salt. Mix slowly with a wooden spoon and serve immediately. The hot chocolate mix is easier to learn but cooking from ingredients gets you a tastier product. More importantly, cooking from ingredients you can make anything. The cream can be used for Indian curry, the milk for cheese, the chocolate can be eaten alone and the salt can add flavor to any dish. Hot cocoa powder serves only one function. However, learning to cook from ingredients requires an up-front investment in the skill of cooking.
 
-The Unix shell is the same way. Instead of large complicated programs that perform a specific task, it provides vertitile ingredients that can be mixed and matched as necessary. However, cooking has one drawback that programming does not. If you write a good enough recipe, Unix can do all the work for you, and you can go on to writing better recipes.
-
+The Unix shell is the same way. Instead of large complicated programs that perform a specific task, it provides versitile ingredients that can be mixed and matched as necessary. Plus, it uses keyboard input instead of the mouse. This lets you input complex commands faster, or simply automate them.
 
 * Homework
 ** Read Introduction to Linux by Machtelt Garrels
    http://tille.garrels.be/training/tldp/
+   Learn the basic commands from this book, plus the following:
+   [double check that these aren't thoroughly covered]
+** Learn to use the following command line utilities
+*** popd, pushd
+    Special navigation commands
+*** less
+    Used for viewing a file
+*** cal
+    A nifty utility that's convenient to have around
+*** du
+    Useful for finding out disk usage
+** These commands are important to hacking. Play around with them a little.
+*** ping
+    You can ping a website like google.com or facebook.com to check that you have internet access.
+*** wget
+    Practice downloading images and other files from different websites. Edward Snowden used this to copy the NSA database.
+*** curl
+    Curl lets you simulate a human web user from the shell.
+** Acquaint yourself with what the following commands let you do. You may not need them right now, but they are important to know.
+*** ssh, scp
+*** mount
+*** dd [WARNING: This command is extremely dangerous. Handle with care.]
 
 * Supplementary
 ** Read "Cooking for Geeks" by Jeff Potter
 
-You'll remember that "Introduction to Linux" introducted you two two text editors: emacs and vi(m). These are the two best text editors in the universe, each serving a slightly different purpose. Vi(m) is a way to edit files through the shell whereas emacs is an Integrated Development Environmen. For now, we'll use vim because it integrates better with the shell. We'll get back to emacs later.
+Computer programming is a conversation between a computer and a programmer. The programmer gives the computer a command and the computer replies. The faster this conversation goes, the faster you can program. The faster you can program, the faster you can think. The faster you can think, the more things you can hold in your mind at once. The more things you can hold in your mbind at once, the better you can program. It's therefore very important to minimize the time that elapses between your query and the computer's reply. The longer you have to wait, the more your mind will drift and the harder it will be to focus on what you are doing.
 
+One of the most common things you'll tell a computer is to edit a file. "Introduction to Linux introduced you to two text editors: emacs and vim. We'll get back to emacs later. The fastest way to edit a file is with vim. Vim uses many different hotkeys, so you can perform most edits in just a few keystrokes instead of wasting time by moving your hand all the way to the mouse and back.
 
 * Homework
-** Put a copy of "Vim Cheat Sheet for Programmers" someplace you'll see it often, such as your desktop wallpaper. I like to print out a color copy and tape it to my desk.
-   http://michael.peopleofhonoronly.com/vim/
 ** Read Byte of Vim by Swaroop
    http://files.swaroopch.com/vim/byte_of_vim_v051.pdf
-** Remap your "CapsLock" key to "Ctrl"
-
+** Remap your CapsLock key to Ctrl.
+   In Mint, this can be done through Preferences > Keyboard > Layouts > Options > Caps Lock key behavior
+** Put a copy of "Vim Cheat Sheet for Programmers" someplace you'll see it often, such as your desktop wallpaper. I like to print out a color copy and tape it to my desk.
+   http://michael.peopleofhonoronly.com/vim/
+** Practice editing some files with vim. Note how, much like typing, the keystrokes become muscle memory. Get in the habit of using C+[ instead of Esc.
+** Consider installing Neovim.
+   https://neovim.io/doc/
 
 Now you have the tools you need to write advanced scripts.
 
@@ -31,3 +56,8 @@ Now you have the tools you need to write advanced scripts.
 
 * Supplemental Materials
 ** Watch "The Matrix" (1999)
+
+By this point, you may find that you're often opening up two or three shell windows at once. There's a better way to do this. By using tmux, you can get one shell to support multiple windows. It also lets you do things useful to system administrators.
+
+* Homework
+** [insert good tmux tutorial here]
