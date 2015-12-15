@@ -17,10 +17,10 @@ BSD describes a family of operating systems similar to Linux, but with a less ha
 The best way to buy a laptop is to get one used used on a website like Craigslist.org because inexperienced users tend to sell quality hardware very cheap. The money you save by buying used can be directed toward better hardware. Warrenties are not worth the time or money. You will save time and money by repairing the computer yourself. If you're really short on cash, you can buy a used computer with a broken screen or keyboard and repair it yourself. An old computer, though unpleasant to use, is still sufficient for this course.
 
 ** Lenovo
-My favorite computers are Lenovo ThinkPads. They're beautiful, utilitarian and virtually indescructable. They're reasonably easy to repair those few times you do manage to damage them.
+My favorite computers are Lenovo ThinkPads. They're beautiful, utilitarian and virtually indestructable. They're reasonably easy to repair on those rare occasions you do manage to damage them.
 
 ** System76
-System 76 makes computers that come with Ubuntu preinstalled. They're heavy. People like to demonstrate their quality construction by driving cars over them.
+System 76 makes computers that come with Ubuntu preinstalled. People like to demonstrate their quality construction by driving cars over them. This takes armor so they can be a little heavy.
 
 ** Dell
 Dell computers are ok.

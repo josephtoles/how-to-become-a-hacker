@@ -1,45 +1,38 @@
 * SectionsL
 
 ** Introduction
-  
-*** Homework
-    The Hacker's Manifesto
-    Paul Graham Great Hackers 
-
-*** Supplements
-    Zen and the Art of Motorcycle Maintenance
-    You're not Special
-    The Matrix
-    ? College: What is Was, Is, and Should Be
 
 ** Your first computer
    This is important and necessary
    Buying a computer
-*** Homework
-    Buy a computer.n Or dig one out of the dumpster and fix it
-
-** Linux
-   Installing linux
+** Operating systems and installing Linux
 
 ** The Command Line [intro to Linux]
 ** Vim
 ** More Command line [intro to bash scripting]
 ** More Command line [tmux]
-   
+
 ** Git
+
+** Other command line tools
+*** Pentadactyl
+    With curl plugin
+*** Mutt
+*** VLC
+   
 
 ** C & GCC
 
 ** FOSS
-*** Pentadactyl
-    With curl plugin
-*** Mutt
 *** AnkiDroid
-*** VLC
 *** AntennaPod
 
 *** Homework
     "The Cathedral and the Bazaar"
+
+** Emacs
+
+** Lisp
 
 ** A Moment of zen
    Talk about principles
@@ -48,9 +41,6 @@
     The Art of Unix Programming
     The Unix Hater's Handbook [if open source]
     The Mythical Man Month [if open source]
-** Emacs
-
-** Lisp
 
 ** Data Structures and Algorithms
    Open Data Structures [read this and check that it's good]
