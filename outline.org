@@ -1,18 +1,9 @@
 * SectionsL
 
 ** Introduction
-   Anyone can hack
-   On the Internet, nobody knows you're a dog
-   What about college?
-   What's in this book?
-   Bill Gates, Steve Jobs, and Elon Musk didn't
-   How to teach yourself hacking, for $0
-   How to read this book (and if you find something cool, set this down and come back to it)
-   College is the easy route. This is faster, harder, and much more effective.
   
 *** Homework
     The Hacker's Manifesto
-    Bill Watterson's Commencement Speech
     Paul Graham Great Hackers 
 
 *** Supplements

@@ -19,10 +19,10 @@ Are you still reading? Let's get started.
 At the end of each chapter you will find three categories of assignments: Homework, Supplements, and Tangents
 
 *** Homework
-    Homework is mandatory. Ideally, you should complete it before going on to the next chapter. They are all freely available.
+    Homework is mandatory. These assignments build off of ecah other, you should complete all of the technical homework in sequence before going on to the next chapter. Everything you need for the homework is all freely available. You can skip the homework if it's something you've already learned elsewhere.
 
 *** Supplements
-    Supplements are all that non-technical stuff that helps you get a more thorough understanding of the material. They are mandatory if your local library stocks them.
+    Supplements are copyright-protected works that help you get a more thorough understanding of the material. They are mandatory if your local library stocks them. You don't have to worry about doing them in sequence so much as with the homework.
 
 *** Tangents
     Tangents are the only non-mandatory part of this course. You should do them if they seem fun and interesting.
@@ -30,10 +30,20 @@ At the end of each chapter you will find three categories of assignments: Homewo
 ** Assignments
 
 *** Homework
-[none]
+    We'll get you started on technical training in a chapter or two once you have a real computer. For the moment, here are a few essays about learning.
+**** Read Bill Watterson's commencement speech
+     http://web.mit.edu/jmorzins/www/C-H-speech.html
+**** Read "Great Hackers" by Paul Graham
+     http://www.paulgraham.com/gh.html
+     If you've been reading ahead, you'll notice that this essay talks about how great hackers use Perl, but that Perl is not included in this book. That's because this essay was written in 2004 and great hackers use better tools that weren't around back then.
+**** Read the Hacker Manifesto
+     http://www.mithral.com/~beberg/manifesto.html
+**** Read "Citizenship in a Republic" by Theodore Roosevelt
+     http://design.caltech.edu/erik/Misc/Citizenship_in_a_Republic.pdf
 
 *** Supplements
-[none]
+**** Read "You are Not Special" by Jr., David McCullough
+**** Watch "The Matrix" (1999)
 
 *** Tangents
-[none]
+**** If you have a smart phone and local library, find out if your local library allows you to download digital audiobooks.

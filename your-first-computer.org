@@ -1,0 +1,82 @@
+* Operating Systems
+The first thing you'll need is a computer, preferably a laptop. If you can't afford a laptop, you can get a desktop or Raspberry PI. Having quality hardware is nice if you can afford it, but not necessary if you cannot. Much more important is the operating system you run. Most of the operating systems you see in a day-to-day basis will fall into one of four categories: Microsoft, Apple, Linux, and BSD.
+
+** Microsoft
+Microsoft writes Windows, the most common operating system in the world for laptop and desktop computers. Most people run Windows because it came pre-installed on their computer. Others use it because they need particular software, particularly videogames and enterprise software like as Inventor. The system has many drawbacks. It crashes all the time, upgrading it is inconvenient, it's difficult to customize, and there is not a lot of freely available quality software. Do not use Windows unless you require specific software that only runs on Windows.
+
+** Apple
+Apple writes operating systems for Apple devices, OS X and iOS. These operating systems are well-integrated with their expensive hardware and don't crash all the time. They run a lot of commercial software, though not quite as much as Windows. However, customizing an Apple system is very difficult, and Apple does not support many important hacking tools, so while many excellent engineers do use Apple products quite successfully, hackers (Lisbeth Salander notwithstanding) do not.
+
+** Linux
+Linux describes a family of operating systems designed by hackers for hackers. There are many different flavors of LInux. If you don't know which Linux distro to use, just use Linux Mint.
+
+** Berkely Software Distribution (BSD)
+BSD describes a family of operating systems similar to Linux, but with a less hacker-ish philosophy.
+
+* Hardware
+The best way to buy a laptop is to get one used used on a website like Craigslist.org because inexperienced users tend to sell quality hardware very cheap. The money you save by buying used can be directed toward better hardware. Warrenties are not worth the time or money. You will save time and money by repairing the computer yourself. If you're really short on cash, you can buy a used computer with a broken screen or keyboard and repair it yourself. An old computer, though unpleasant to use, is still sufficient for this course.
+
+** Lenovo
+My favorite computers are Lenovo ThinkPads. They're beautiful, utilitarian and virtually indescructable. They're reasonably easy to repair those few times you do manage to damage them.
+
+** System76
+System 76 makes computers that come with Ubuntu preinstalled. They're heavy. People like to demonstrate their quality construction by driving cars over them.
+
+** Dell
+Dell computers are ok.
+
+** Asus
+Asus computers are ok.
+
+** HP
+Never buy an HP computer. Their screens, keyboards, and hard drives break under moderate use. The price tag looks cheap, but you will lose money over the long run after factoring in the price of replacement parts.
+
+** Apple
+Don't buy an Apple computer. They're overpriced fashion accessories designed for people who don't actually like computers. They have unconventional specs that make it weird to set up Linux on, and they can be literally impossible to repair. They're very difficult to configure. Installing Linux on an Apple computer is more trouble than it is worth, so if you already have one, keeo the current operating system or sell the computer entirely. OS X is similar enouch to linux that you can still use it for this course.
+
+** Raspberry PI
+If you can't afford to buy a used laptop, you can buy a Raspberry PI. They are available for as little $5 and are sufficient for this course, but buy a laptop if you can.
+
+** Desktops
+Desktops are okay too, if that is your preference.
+
+* Installing Linux
+The computer you buy will probably come with Windows installed. This is okay because you can install Linux on virtually any laptop. The easiest way to install Linux onto a computer is to burn a bootable iso onto a flash drive. Then, configure your machine's BIOS to boot from the flash drive instead of your hard drive. Restart the computer and the iso will guide you through the rest. How to do this differ depending on what hardware you're using. It's okay to ask a friend to install Linux for you, but learn how to do itself because you will need to if you damage your system badly enough.
+
+** Dual Booting [discouraged]
+If you need Windows for some application that doesn't run on Linux, it is possible to dual-boot your system, which means that you partition your hard drive and choose an operating system when the computer turns on. This kind of system can be annoying to use, so you should only do so if you have to.
+
+* Homework
+  Installing Linux for the first time can be a pain so that's all we'll do this chapter. We'll get started programming for real next chapter.
+** If you don't already have a laptop, buy the nicest one you can afford. Don't buy a Mac.
+** If your computer runs Windows, install your favorite Linux distro. It's okay to ask a friend to help you with this.
+   If you don't have a favorite yet, install Linux Mint.
+   This may be hard to figure out. Don't give up. Installing your first Linux a rite of passage.
+** Now that you've installed your favorite Linux distro, have fun setting it up and customizing it. You've earned the break.
+** Read xkcd 272 "Linux User at Best Buy" and 456 "Cautionary"
+   https://xkcd.com/272/
+   https://xkcd.com/456/
+** Read a little about each of the following Linux distros.
+*** Debian
+    https://en.wikipedia.org/wiki/Debian
+*** Ubuntu
+    https://en.wikipedia.org/wiki/Ubuntu_(operating_system)
+*** Red Hat Linux
+    https://en.wikipedia.org/wiki/Red_Hat_Linux
+*** Arch Linux
+    https://en.wikipedia.org/wiki/Arch_Linux
+*** Puppy Linux
+    https://en.wikipedia.org/wiki/Puppy_Linux
+*** Damn Small Linux
+    https://en.wikipedia.org/wiki/Damn_Small_Linux
+** Skim the Wikipedia list of Linux distros and read a little about a couple others that you find interesting.
+   https://en.wikipedia.org/wiki/List_of_Linux_distributions
+** Read Chapters 1 and 2 of "The Art of Unix Programming" by Eric Steven Raymond
+   http://catb.org/~esr/writings/taoup/html/
+   Then read "BSD for Linux Users"
+   http://www.over-yonder.net/~fullermd/rants/bsd4linux/01
+** Take a glance at the Shitty Battlestations subreddit for laughs and inspiration
+   https://www.reddit.com/r/shittybattlestations/
+
+* Supplemental
+** Read "The Soul of a new Machine" by Tracy Kidder
