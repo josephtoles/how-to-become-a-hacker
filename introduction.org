@@ -1,0 +1,39 @@
+* Introduction
+
+Computer programming is one of the cheapest skills in the world to learn. All you need is a computer. Everything else is information, and countless generous people have made this information freely available online. Really. You can become a master hacker without paying a single cent for a textbook. (You can pay it forward by contributing to these projects yourself.)
+
+In fact, there are so many different things on the Internet these days that it can be difficult to know where to start. I had this problem when I started teaching myself computers. I could have saved time if I had a book to tell me which things are important, which things are not important, and in what order the important things should be learned. This is a difficult problem, because different people disagree on what things are important.
+
+Take, for example, the differences between Notepad and Vim. These are both programs used to edit text files. Anyone can open up Notepad and know instantly how it works and how to use it. In this sense, Notepad is approachable. If you want to use Vim, you'll have to learn how to use it first, but one you do, you can work much more efficiently. For example, if you want to move up/down/left/right in Notepad, you use the arrow keys. In Vim, you use the h/j/k/l keys. This is because a Vim user would find it an intolerable waste of time to move her hand four inches all the way from typing position to the arrow keys--or, heavens forbid, the mouse--and back again just to move a curser. Now suppose you wanted to write a command that duplicates every line with the word "apple" in it? Vim can do this with a regular expression. Notepad can't do this kind of thing at all.
+
+If using a tool like Vim isn't your cup of tea, please put this book down right now and go to college instead. There are other people who can teach you how to program with more "user-friendly" tools.
+
+Of course, there's more to programming than raw technical skills. Our visionaries must not only know their fundamentals backward and forward, but also have a solid education in physics, math, biology, chemistry, economics, business, history, and psychology. Perhaps most important are philosophy and science fiction.
+
+If you just want to learn how to code, please put this book down and have a nice day.
+
+Are you still reading? Let's get started.
+
+** How to use this book.
+
+At the end of each chapter you will find three categories of assignments: Homework, Supplements, and Tangents
+
+*** Homework
+    Homework is mandatory. Ideally, you should complete it before going on to the next chapter. They are all freely available.
+
+*** Supplements
+    Supplements are all that non-technical stuff that helps you get a more thorough understanding of the material. They are mandatory if your local library stocks them.
+
+*** Tangents
+    Tangents are the only non-mandatory part of this course. You should do them if they seem fun and interesting.
+
+** Assignments
+
+*** Homework
+[none]
+
+*** Supplements
+[none]
+
+*** Tangents
+[none]

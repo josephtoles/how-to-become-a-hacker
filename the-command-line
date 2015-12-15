@@ -5,7 +5,7 @@ Consider making hot chocolate. You could boil some water, add hot chocolate powd
 The Unix shell is the same way. Instead of large complicated programs that perform a specific task, it provides versitile ingredients that can be mixed and matched as necessary. Plus, it uses keyboard input instead of the mouse. This lets you input complex commands faster, or simply automate them.
 
 * Homework
-** Read Introduction to Linux by Machtelt Garrels
+** Read Introduction to Linux by Machtelt Garrels. This book will explain to you what Linux is, and get you started on the command line. You can skip the Introduction and the Exercises if you want. Chapter 1 will reference a bunch of strange names you may not have encountered before. Don't worry. You'll pick up what the important ones mean soon enough.
    http://tille.garrels.be/training/tldp/
    Learn the basic commands from this book, plus the following:
    [double check that these aren't thoroughly covered]
@@ -29,6 +29,15 @@ The Unix shell is the same way. Instead of large complicated programs that perfo
 *** ssh, scp
 *** mount
 *** dd [WARNING: This command is extremely dangerous. Handle with care.]
+** Practice using the following Unix shortcuts
+*** C+p, C+n
+    Browse history
+*** C+w, C+k, C+u
+    Delete text
+*** M+f, M+b
+    Move forward and backwards by word
+*** M+.
+    Print the last argument of your last command
 
 * Supplementary
 ** Read "Cooking for Geeks" by Jeff Potter

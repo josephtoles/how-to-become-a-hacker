@@ -1,4 +1,4 @@
-* Sections
+* SectionsL
 
 ** Introduction
    Anyone can hack
@@ -30,63 +30,117 @@
 ** Linux
    Installing linux
 
-** The Command Line
+** The Command Line [intro to Linux]
 ** Vim
-** More Command line
+** More Command line [intro to bash scripting]
+** More Command line [tmux]
    
 ** Git
 
 ** C & GCC
 
+** FOSS
+*** Pentadactyl
+    With curl plugin
+*** Mutt
+*** AnkiDroid
+*** VLC
+*** AntennaPod
+
+*** Homework
+    "The Cathedral and the Bazaar"
+
 ** A Moment of zen
    Talk about principles
 *** Homework
     The Pragmatic Programmer [if open source]
-    The Art of Unix Programming [if open source]
+    The Art of Unix Programming
     The Unix Hater's Handbook [if open source]
     The Mythical Man Month [if open source]
 ** Emacs
 
 ** Lisp
 
+** Data Structures and Algorithms
+   Open Data Structures [read this and check that it's good]
+
 ** Command Line text processing tools
    Sed
    Awk
-   
-* Don't know where these next sections should go
-
-** Free and Open Source Software
+   cut
 
 ** Python
 
-** Electrical Engineering
-
-** Data Structures and Algorithms
-   Read a basic book, then learn calculus
-
-** Machine Learning
-
-** Other shells
-
-** Arduino
-
-** The business side of things
-
-** Startups
-
-** Haskell
-
-** Open Source
+** Markdown
+*** Homework
+    "Learn Markdown" [check that this is good]
+    https://www.gitbook.com/book/gitbookio/markdown/details
 *** Homework
     "Open Advice" book
 
-** Other people
-*** Homework
+** zsh
 
+** Math
+
+** Data Structures and Algorithms
+
+** Haskell
+
+** Business & Economics
+
+** Other People
+*** Homework
     How to Win Friends and Influence People
     Truth in Comedy
     Zen and the Art of Writing
 
+** Startups
+
+** Java
+
+** Intro Web Development: HTML, CSS, JQuery, JavaScript
+*** Homework
+    Codecademy
+
+** Basic SQL
+
+* Whatever order you 
+
+** Advanced Mathematics
+
+** Android
+
+** Django Servers
+
+** Advanced Web Development
+
+** R, Machine Learning, and Artificial Intelligence
+
+** Arduino
+
+** Electrical Engineering
+
+** Raspberry PI
+
+** Security
+
+** LaTeX
+
+** Contributing back to FOSS
+   You think you know a lot. Try contributing back by writing an open source textbook, or to open source software
+
+* Maybe add
+
+** Robotics
+
+** Perl
+
+** Ruby
+
+** Windows
+
+** Apple
+   
 * Structure
   Each chapter has
 
@@ -99,4 +153,3 @@
 
 ** Side Quests
    Strictly Optional
-
