@@ -17,3 +17,28 @@ Good books
 
 Lavabit goodbye letter
 http://lavabit.com/
+
+Programmers vs Developers vs Hackers
+https://danielmiessler.com/study/programmer_hacker_developer/
+
+Hacker lore, lots of it
+http://www.catb.org/jargon/html/index.html
+
+Linus Torvald's Book
+"Just for Fun"
+
+* Bloggers I like
+** Paul Graham
+** Krebs on Security
+** Bruce Schneier
+** Daniel Meissler
+   https://danielmiessler.com/blog/the-poisonous-underside-of-the-sharing-economy/
+
+* Math
+** You never did math in high school
+   http://j2kun.svbtle.com/you-never-did-math-in-high-school/?_nospa=true
+
+* Hiring and interviews
+** https://danielmiessler.com/study/hiring/
+
+

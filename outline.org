@@ -1,4 +1,5 @@
-* SectionsL
+* Sections
+
 
 ** Introduction
 
@@ -21,7 +22,8 @@
 *** VLC
    
 
-** C & GCC
+** C & GCC & Makefile
+
 
 ** FOSS
 *** AnkiDroid
@@ -30,9 +32,11 @@
 *** Homework
     "The Cathedral and the Bazaar"
 
+
 ** Emacs
 
 ** Lisp
+
 
 ** A Moment of zen
    Talk about principles
@@ -46,11 +50,12 @@
    Open Data Structures [read this and check that it's good]
 
 ** Command Line text processing tools
-   Sed
    Awk
    cut
+   sed
 
 ** Python
+   [Check that textbook has pdb]
 
 ** Markdown
 *** Homework
@@ -59,13 +64,16 @@
 *** Homework
     "Open Advice" book
 
+** Legends and Shared History
+   "Ready Player One"
+
 ** zsh
 
 ** Math
 
 ** Data Structures and Algorithms
 
-** Haskell
+** Haskell & xmonad
 
 ** Business & Economics
 
@@ -75,23 +83,33 @@
     Truth in Comedy
     Zen and the Art of Writing
 
-** Startups
-
-** Java
-
 ** Intro Web Development: HTML, CSS, JQuery, JavaScript
 *** Homework
     Codecademy
 
-** Basic SQL
+** Fitness & Health
 
+** Java & Eclipse
+
+** Intro SQL
+
+** Startups
+
+** Interviewing
+
+ 
 * Whatever order you 
+
+** 3D, graphics and OpenGL
+   Talk to Khayah's friend Trevor
+
+** Blender
 
 ** Advanced Mathematics
 
 ** Android
 
-** Django Servers
+** Django Servers (and other servers)
 
 ** Advanced Web Development
 
@@ -100,6 +118,8 @@
 ** Arduino
 
 ** Electrical Engineering
+
+** Video game development
 
 ** Raspberry PI
 

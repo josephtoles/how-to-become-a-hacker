@@ -9,7 +9,6 @@ The Unix shell is the same way. Instead of large complicated programs that perfo
 ** Read Introduction to Linux by Machtelt Garrels. This book will explain to you what Linux is, and get you started on the command line. You can skip the Introduction and the Exercises if you want. Chapter 1 will reference a bunch of strange names you may not have encountered before. Don't worry. You'll pick up what the important ones mean soon enough.
    http://tille.garrels.be/training/tldp/
    Learn the basic commands from this book, plus the following:
-   [double check that these aren't thoroughly covered]
 ** Learn how and why to use the following command line utilities
    - popd, pushd
    - less
@@ -49,7 +48,6 @@ The Unix shell is the same way. Instead of large complicated programs that perfo
 ** Read "A tmux Primer" by Daniel Miessler
    By this point, you may find that you're often opening up two or three shell windows at once. There's a better way to do this. By using tmux, you can get one shell to support multiple windows. It also lets you do things useful to system administrators.
    https://danielmiessler.com/study/tmux/
-
 * Supplemental Materials
 ** Watch "The Matrix" (1999)
 ** Read "Cooking for Geeks" by Jeff Potter

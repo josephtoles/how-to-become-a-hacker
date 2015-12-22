@@ -1,0 +1,18 @@
+* Git (and GitHub)
+  Programming, like writing, is an iterative process. You try different things to see if they'll work. If they don't you need to revert your work. This means a lot of saving and going back to saves. This can get very unwieldly very quickly. There are many tools to make this process easier. The best one is called git and is used by most programmers. Git is so effective that it can even allow large numbers of programmers to collaborate on a single project, and was instrumental in the development of the Linux kernel. Now it's your turn to learn to use git. The homework in this section will teach you how git works and how to use git.
+
+In order to make a git project accessible to many different people, developers usually push the code to a website. Github.com is the most popular. Each project on GitHub is called a repository. These are public by default, but you can pay a fee to make them only accessible to those you give permission.
+
+
+* Homework
+** Read Git from the Bottom up
+** Read Pro Git
+** Create an account on GitHub.com and push a couple of your projects to it. Explore how GitHub.com works.
+** Set up an ssh keychain on GitHub.com so that you don't have to enter your password manually. This is more convenient and more secure.
+** [Github for lesbians]
+
+* Supplements
+  none
+
+* Tangents
+  none
